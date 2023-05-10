@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica";
+}
+header{
+    background-color: lightgreen;
+    height: 150px;
+}
+main{
+    background-color: lightblue;
+    height: 500px;
+}
+footer{
+    background-color: lightgreen;
+    height: 100px;
+}
+main h1{
+    font-size: 72px;
+    color: lightskyblue;
+}
